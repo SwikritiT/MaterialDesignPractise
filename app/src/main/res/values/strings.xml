@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FristMaterialDesign</string>
+    <string name="search">search</string>
+    <string name="setting">Settings</string>
+    <string name="help">Help</string>
+    <string name="profile">Profile</string>
+</resources>
